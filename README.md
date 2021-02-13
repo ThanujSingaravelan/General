@@ -2,4 +2,4 @@
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThanujSingaravelan/General/lab/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThanujSingaravelan/General/lab/main)
